@@ -51,7 +51,7 @@ A full-stack personal finance management web application to track income, expens
 
 🚀 Installation & Setup
 1. Clone the Repository
-  bashgit clone https://github.com/Tushalkumar30/expense-tracker.git
+  bashgit clone https://github.com/Tushalkumar30/MyExpenseTracker.git
   cd expense-tracker
 
 3. Frontend Setup
